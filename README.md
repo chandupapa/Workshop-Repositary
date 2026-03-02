@@ -3,7 +3,11 @@
 ![My Photo](https://github.com/chandupapa/workshop-repositary/blob/main/hreds.jpg%20(3).jpeg)
 
 ## 📌 About Me
-I am a passionate developer with strong skills 
+## 👨‍💻 About Me
+
+I am an enthusiastic developer with hands-on experience in building responsive web applications and software solutions. I have a strong understanding of programming fundamentals and problem-solving techniques.
+
+I am highly motivated, adaptable, and committed to continuous learning. I aim to contribute to impactful projects while enhancing my technical and professional skills.
 
 ## 🛠 Skills
 - HTML
